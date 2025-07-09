@@ -32,6 +32,8 @@ This project aims to predict student dropout risk at the time of enrolment using
 - Matplotlib, Seaborn for visualisation
 - Random Forest Classifier
 - Feature engineering & cross-validation
+- Streamlit
+- PowerBi
 
 ---
 
